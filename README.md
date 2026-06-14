@@ -7,7 +7,7 @@
 そこで、「自分だけの粒度でカフェ情報を蓄積し、出先から現在地周辺のカフェを直感的に探し出せる専用のデータベース」を構築するため、ノーコードツールを用いて本アプリを迅速にプロトタイピング・開発しました。
 
 ## デモ動画
-<video src="cafememo.mp4" controls width="100%"></video>
+https://github.com/tomo-mar/cafe_memo/edit/main/cafememo.mp4
 
 ## 主な機能
 ### 1. 自動マッピングとマップ検索
