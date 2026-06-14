@@ -7,7 +7,7 @@
 そこで、「自分だけの粒度でカフェ情報を蓄積し、出先から現在地周辺のカフェを直感的に探し出せる専用のデータベース」を構築するため、ノーコードツールを用いて本アプリを迅速にプロトタイピング・開発しました。
 
 ## デモ動画
-https://github.com/tomo-mar/cafe_memo/edit/main/cafememo.mp4
+[https://github.com/tomo-mar/cafe_memo/edit/main/cafememo.mp4](https://github.com/user-attachments/assets/1c85efc7-acba-4d62-b227-0482fdca6a22)
 
 ## 主な機能
 ### 1. 自動マッピングとマップ検索
@@ -27,6 +27,6 @@ https://github.com/tomo-mar/cafe_memo/edit/main/cafememo.mp4
 * マップ上のピン、または一覧画面から店舗の詳細ビューを開くことができます。
 * 詳細ビューから、1タップで「Google Mapアプリ」や「Instagram公式アカウント」へ直接ジャンプする動線を設計し、UXを向上させています。
 
-## 🛠 使用技術 (Tech Stack)
+## 使用技術 (Tech Stack)
 * **Frontend / Logic**: Google AppSheet (No-Code Development)
 * **Database**: Google Sheets
